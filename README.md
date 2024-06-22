@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Vlad
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JS
-- 📫 Contact me by telegram - @plizers
+<div align="center">
 
-💻My Stack
-    ![image](https://github.com/Vladi1k/Vladi1k/assets/157295577/20954e1a-c73c-4c8d-8276-12c5fb981530) ![image](https://github.com/Vladi1k/Vladi1k/assets/157295577/fcc75413-a0ab-421c-86f6-2f4b4779b175) ![image](https://github.com/Vladi1k/Vladi1k/assets/157295577/44e7392a-6cfe-4c47-8c8b-b37f55fe0c91) ![image](https://github.com/Vladi1k/Vladi1k/assets/157295577/f1d4b9c9-7182-48c2-b647-57544eee22f2)
+# Hi there, I'm <a href="https://t.me/plizers">Vlad</a>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm + studying + Frontend + development)](https://git.io/typing-svg)
+  ### 💻My Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+ ### ✍🏻I am writing code in
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+ ### 🎓I want to learn
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+</div>
 
 
 <!---
